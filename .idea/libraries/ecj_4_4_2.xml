@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ecj-4.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fragment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin-demo1/libs/fragment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RePlugin-Sample.iml" filepath="$PROJECT_DIR$/RePlugin-Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-demo1/plugin-demo1.iml" filepath="$PROJECT_DIR$/plugin-demo1/plugin-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-demo2/plugin-demo2.iml" filepath="$PROJECT_DIR$/plugin-demo2/plugin-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replugin-host-gradle/replugin-host-gradle.iml" filepath="$PROJECT_DIR$/replugin-host-gradle/replugin-host-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replugin-host-lib/replugin-host-lib.iml" filepath="$PROJECT_DIR$/replugin-host-lib/replugin-host-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replugin-plugin-gradle/replugin-plugin-gradle.iml" filepath="$PROJECT_DIR$/replugin-plugin-gradle/replugin-plugin-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replugin-plugin-lib/replugin-plugin-lib.iml" filepath="$PROJECT_DIR$/replugin-plugin-lib/replugin-plugin-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
