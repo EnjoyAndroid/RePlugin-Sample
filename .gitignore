@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+/utils/build/
+/build/
+/plugin-demo1/build/
+/plugin-demo2/build/
+/replugin-host-gradle/build/
+/replugin-host-lib/build/
+/replugin-plugin-gradle/build/
+/replugin-plugin-lib/build/
